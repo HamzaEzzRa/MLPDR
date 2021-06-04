@@ -7,4 +7,4 @@ Moroccan license plate detection &amp; recognition. Built with YOLOv3 and PyQt.
 </p>
 
 # Dataset
-The network has been trained on a moroccan license plate [dataset](https://msda.um6p.ma/msda_datasets)
+The network has been trained on a moroccan license plate [dataset](https://msda.um6p.ma/msda_datasets).
