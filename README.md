@@ -19,7 +19,7 @@ $ source ./env/bin/activate
 $ pip install -r ./requirements.txt
 ```
 
-Before running the project, you will need the trained weights. Considering the size of the weights and that Git LFS has a monthly limit on bandwidth, you will have to download the latest [release](https://github.com/HamzaEzzRa/MLPDR/releases/download/v1.0.0-beta) and copy the weights folder to the cloned project.
+Before running the project, you will need the trained weights. Considering the size of the weights and that Git LFS has a monthly limit on bandwidth, you will have to download the latest [release](https://github.com/HamzaEzzRa/MLPDR/releases/tag/v1.0.0-beta) and copy the weights folder to the cloned project.
 
 ```
 # Run the project
