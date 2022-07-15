@@ -8,13 +8,22 @@ Install [Python](https://www.python.org/downloads/).
 Clone this repository, cd to its directory and run the following commands:
 ```
 # Create and activate a new virtual environment
-python -m venv env && cd ./env/Scripts && activate && cd ../..
+$ python -m venv env
+
+## Windows
+$ ./env/Scripts/activate
+## Linux
+$ source ./env/bin/activate
 
 # Install the project's requirements
-pip install -r ./requirements.txt
+$ pip install -r ./requirements.txt
+```
 
-# Run the application
-python ./main.py
+Before running the project, you will need the trained weights. Considering the size of the weights and that Git LFS has a monthly limit on bandwidth, you will have to download the latest [release](https://github.com/HamzaEzzRa/MLPDR/releases/download/v1.0.0-beta) and copy the weights folder to the cloned project.
+
+```
+# Run the project
+$ python ./main.py
 ```
 
 ### Screenshots
