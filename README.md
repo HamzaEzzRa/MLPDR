@@ -1,6 +1,6 @@
 # MLPDR
 ### About
-Moroccan license plate detection &amp; recognition. Built with YOLOv3 and PyQt.
+Moroccan license plate detection &amp; recognition. Built with YOLOv3 and PyQt. + FLASK 
 
 ### Setup
 Install [Python](https://www.python.org/downloads/).
