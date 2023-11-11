@@ -1,9 +1,8 @@
 # MLPDR
 ### About
 Moroccan license plate detection &amp; recognition. Built with YOLOv3 and PyQt. + FLASK 
-Use Python 3.8
 ### Setup
-Install [Python](https://www.python.org/downloads/).
+Install [Python](https://www.python.org/downloads/) Use Python 3.8.
 
 Clone this repository, cd to its directory and run the following commands:
 ```
