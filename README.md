@@ -23,16 +23,19 @@ Before running the project, you will need the trained weights. Considering the s
 ```
 # Run the project
 $ python ./main.py
-$ python ./api.py # to run the api
+$ python ./api.py # to run the API
 $ python ./client.py # client side code to send the picture 
 ```
 
 ### Screenshots
 <p align="center">
-  <img src="https://i.imgur.com/f7evHhw.png" />
-  <img src="[https://imgbox.com/7DmywAEM](https://imgbox.com/7DmywAEM)" />
+  <img src="https://i.imgur.com/f7evHhw.png" />  
+</p>
+
+<p align="center">
+  <img src="https://imgbox.com/7DmywAEM" />
   
 </p>
 
 ### Dataset
-The network has been trained on the following moroccan license plate dataset: [https://msda.um6p.ma/msda_datasets](https://msda.um6p.ma/msda_datasets).
+The network has been trained on the Moroccan license plate dataset: [https://msda.um6p.ma/msda_datasets](https://msda.um6p.ma/msda_datasets).
