@@ -23,6 +23,8 @@ Before running the project, you will need the trained weights. Considering the s
 ```
 # Run the project
 $ python ./main.py
+$ python ./api.py # to run the api
+$ python ./client.py # client side code to send the picture 
 ```
 
 ### Screenshots
