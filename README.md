@@ -33,7 +33,7 @@ $ python ./client.py # client side code to send the picture
 </p>
 
 <p align="center">
-  <img src="https://imgbox.com/7DmywAEM" />
+  <img src="https://images2.imgbox.com/5a/41/7DmywAEM_o.png" />
   
 </p>
 
