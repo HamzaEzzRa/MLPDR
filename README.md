@@ -30,6 +30,8 @@ $ python ./client.py # client side code to send the picture
 ### Screenshots
 <p align="center">
   <img src="https://i.imgur.com/f7evHhw.png" />
+  <img src="https://i.imgur.com/f7evHhw.png](https://imgbox.com/7DmywAEM" />
+  
 </p>
 
 ### Dataset
